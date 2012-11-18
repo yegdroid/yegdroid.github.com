@@ -11,12 +11,19 @@
 
 
 .header {
-	background-color: #A4C639;
+	background-color: #000000;
 	font-family: 'RobotoBold', Arial, sans-serif;
+	color:#33b5e5;
 }
 
 .footer {
-	font-style: italic;
+	background-color: #000000;
+	font-family: 'RobotoItalic', Arial, sans-serif;
+	color:#33b5e5;
+	height: 40px;
+	padding-top: 10px;
+	padding-bottom:10px;
+	text-align:center;
 }
 
 .mission_statement{
