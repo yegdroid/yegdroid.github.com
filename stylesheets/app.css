@@ -1,6 +1,6 @@
 /* Artfully masterminded by ZURB  */
 
-/* -------------------------------------------------- 
+/* --------------------------------------------------
    Table of Contents
 -----------------------------------------------------
 :: Shared Styles
@@ -8,28 +8,30 @@
 :: Page Name 2
 */
 
-
+@media screen and (max-width:300px) {
+  .not_mobile {display:none}
+}
 
 .header {
-	background-color: #000000;
-	font-family: 'RobotoBold', Arial, sans-serif;
-	color:#33b5e5;
+  background-color: #000000;
+  font-family: 'RobotoBold', Arial, sans-serif;
+  color:#33b5e5;
 }
 
 .footer {
-	background-color: #000000;
-	font-family: 'RobotoItalic', Arial, sans-serif;
-	color:#33b5e5;
-	height: 40px;
-	padding-top: 10px;
-	padding-bottom:10px;
-	text-align:center;
+  background-color: #000000;
+  font-family: 'RobotoItalic', Arial, sans-serif;
+  color:#33b5e5;
+  height: 40px;
+  padding-top: 10px;
+  padding-bottom:10px;
+  text-align:center;
 }
 
 .mission_statement{
-	padding-top: 60px;
-	font-family: 'RobotoCondensed', Arial, sans-serif;
-	
+  padding-top: 60px;
+  font-family: 'RobotoCondensed', Arial, sans-serif;
+
 }
 
 
