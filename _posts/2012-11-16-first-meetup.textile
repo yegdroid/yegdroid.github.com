@@ -7,7 +7,6 @@ h2. {{ page.title }}
 
 h4. {{ page.date | date_to_long_string }}
 
-<h4>16 November 2012</h4>
 <p>Come to our first meetup on 29th November 2012. Email chris at yegdroid.ca for more details or if you would like to give a talk.</p>
 
 <p>This is a work in progress please stay tuned :)</p>
