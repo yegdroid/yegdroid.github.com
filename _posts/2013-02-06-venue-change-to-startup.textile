@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Venue Changed
+title: Venue Changed (again) to Startup
 ---
 
 h2. {{ page.title }}
