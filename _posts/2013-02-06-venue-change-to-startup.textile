@@ -5,8 +5,6 @@ title: Venue Changed (again) to Startup
 
 h2. {{ page.title }}
 
-h4. {{ page.date | date_to_long_string }}
-
 <p>We are changing venue to <a href="http://startupedmonton.com/">Startup Edmonton!</a> the time will be 7pm.</p>
 
 <p>The meetup should last for an hour or so and after wards we will head out for drinks. If you can't make it, don't worry as I will do a G+ hangout.</p>

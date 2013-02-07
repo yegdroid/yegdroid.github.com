@@ -5,8 +5,6 @@ title: Postponed
 
 h2. {{ page.title }}
 
-h4. {{ page.date | date_to_long_string }}
-
 <p>Meetup postponed :( Trying to find a venue. Please Stay tuned</p>
 
   <p>
