@@ -5,6 +5,8 @@ title: Venue Changed
 
 h2. {{ page.title }}
 
+h4. {{ page.date | date_to_long_string }}
+
 <p>Venue and Data decided!</p>
 
 <p>
