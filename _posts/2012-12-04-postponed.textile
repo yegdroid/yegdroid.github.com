@@ -1,0 +1,14 @@
+---
+layout: posts
+title: Postponed
+---
+
+h2. {{ page.title }}
+
+<p>Meetup postponed :( Trying to find a venue. Please Stay tuned</p>
+
+  <p>
+      <strong>Job Posting:</strong>
+      <br>
+      <a href="http://ca.indeed.com/viewjob?jk=1aa3d0bca1638004">Digital Fractal Technologies Inc. is looking for an Android developer. iOS experience is a plus too.</a>
+  </p>

@@ -1,0 +1,12 @@
+---
+layout: posts
+title: Venue Changed
+---
+
+h2. {{ page.title }}
+
+<p>We are changing venue to <a href="http://startupedmonton.com/">Startup Edmonton!</a> the time will be 7pm.</p>
+
+<p>The meetup should last for an hour or so and after wards we will head out for drinks. If you can't make it, don't worry as I will do a G+ hangout.</p>
+
+<p>As always, if you would like to speak please contact me and I will add you to the agenda.</p>

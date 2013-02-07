@@ -1,0 +1,20 @@
+---
+layout: posts
+title: Venue Changed
+---
+
+h2. {{ page.title }}
+
+<p>Venue and Data decided!</p>
+
+<p>
+    I've booked <strong>Comp Sci 2-49 at the U of A</strong> (same room as the yegrb meetup) for the second monday of every month. 
+</p>
+
+<p>
+    <strong>First meetup: 14th January 2013 at 6:30.</strong> Beer afterwards. 
+</p>
+
+<p>
+    If you would like to speak please email chris@yegdroid.ca
+</p>
