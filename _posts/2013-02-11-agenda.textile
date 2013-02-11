@@ -1,0 +1,16 @@
+---
+layout: posts
+title: Agenda
+---
+
+h2. {{ page.title }}
+
+h4. {{ page.date | date_to_long_string }}
+
+<p>
+Tonight's Talks:
+
+<a href=http://yegdroid.ca/welcome_talk_11Feb2012>Welcome</a>
+<a href=http://yegdroid.ca/tools_talk_11Feb2012>Tools</a>
+
+</p>
