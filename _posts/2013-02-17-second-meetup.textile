@@ -1,0 +1,17 @@
+---
+layout: posts
+title: Second Meetup Write up
+---
+
+h2. {{ page.title }}
+
+h4. {{ page.date | date_to_long_string }}
+
+
+<p>
+The second meetup was awesome! I am so thrilled that so many people came out. We even had an attendee speak! <a href=https://plus.google.com/b/118166871316178048763/117635240617411571496>Tom Opgenorth</a> talked about Xamarin and he will be talking again at the next <a href="https://plus.google.com/b/118166871316178048763/events/cmpnt26c3achs8gu5okgatdlovo">meetup.</a> 
+Beers followed at Mercer's Tavern. It was a great night.
+</p>
+<p>
+    Special thanks to Startup Edmonton for hosting. They are having a hackaton the on 23rd and 24th of February so if you are curious visit the <a href=http://winterhackathon2013.eventbrite.com>event page.</a>
+</p>
