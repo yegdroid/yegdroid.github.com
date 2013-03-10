@@ -16,7 +16,7 @@ h4. {{ page.date | date_to_long_string }}
 	<li>7:10: A mystery suprise guest spearker talking layouts.</li>
 	<li>7:30: The awesome <a href=http://dougalwayswins.biz/>Doug Stewart</a> will talk about Mockups in Balsamiq.</li>
 	<li>7:45: <a href=https://plus.google.com/b/118166871316178048763/117635240617411571496>Tom Opgenorth</a> will be talking more about Xamarin.</li>
-	<li> 8:00pm ish: Feedback &  <strong>Beers!</strong> What would a meetup be without beers? Specials at Mercer Tavern for wings and domestic beer ($3.50 a pint).
+	<li> 8:00pm ish: Feedback &  <strong>Beers!</strong> What would a meetup be without beers? Specials at <a href=http://mercertavern.com/>Mercer Tavern</a> for wings and domestic beer ($3.50 a pint).
 </ul>
 
 <p>This meetup will be broadcast as a hangout on air so if you can't physically make it please tune in. Link/Instructuions will be sent out just before the meetup starts.</p>
