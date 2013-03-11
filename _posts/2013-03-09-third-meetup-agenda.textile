@@ -14,7 +14,7 @@ h4. {{ page.date | date_to_long_string }}
 </p>
 <ul>
 	<li>7:30pm: start and intros.</li>
-	<li>7:40: A mystery suprise guest spearker talking layouts.</li>
+	<li>7:40: <a href=http://rickymetz.tumblr.com>Rick Metzger</a> joins us over G+ for talk about prototyping and layouts</li>
 	<li>8:00: The awesome <a href=http://dougalwayswins.biz/>Doug Stewart</a> will talk about Mockups in Balsamiq.</li>
 	<li>8:15: <a href=https://plus.google.com/b/118166871316178048763/117635240617411571496>Tom Opgenorth</a> will be talking more about Xamarin.</li>
 	<li>8:30 ish: Feedback &  <strong>Beers!</strong> What would a meetup be without beers? Specials at <a href=http://mercertavern.com/>Mercer Tavern</a> for wings and domestic beer ($3.50 a pint).
