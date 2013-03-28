@@ -21,9 +21,9 @@ Our third meetup was awesome. We had a <a href=https://www.youtube.com/watch?v=6
 <p> I'm busy planning the next meetup and it should be pretty cool! 
 	<br>
 	A Preview
-	<ol>
+	<ul>
 		<li>I'll talk about in app billing</li>
 		<li>A talk about Mobile testing and experimentation</li>
-	</ol>
+	</ul>
 </p>
 
