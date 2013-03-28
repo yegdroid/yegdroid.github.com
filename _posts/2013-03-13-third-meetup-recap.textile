@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Third meetup agenda
+title: Third meetup write up
 ---
 
 h2. {{ page.title }}
