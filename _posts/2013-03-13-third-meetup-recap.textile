@@ -1,0 +1,28 @@
+---
+layout: posts
+title: Third meetup agenda
+---
+
+h2. {{ page.title }}
+
+h4. {{ page.date | date_to_long_string }}
+
+<p>
+Our third meetup was awesome. We had a <a href=https://www.youtube.com/watch?v=6Kw7OcxxUbs&feature=youtube_gdata_player>hangout on air</a> with <a href=http://rickymetz.tumblr.com>Rick Metzger</a> who talked about <a href=http://www.invisionapp.com/>invision, a high fidelity prototyping app</a>. <a href=http://dougalwayswins.biz/>Doug Stewart</a> talked about Balsamiq and we finished off with <a href=https://plus.google.com/b/118166871316178048763/117635240617411571496>Tom Opgenorth</a> talking about Xamarin. 
+</p>
+
+<p>
+	<iframe width="560" height="315" src="http://www.youtube.com/embed/6Kw7OcxxUbs" frameborder="0" allowfullscreen></iframe>
+</p>
+
+<p> Great turn out and very interesting talks. After we went down to Mercer's Tavern for beer. There are photos on the <a href=https://plus.google.com/b/118166871316178048763/events/cmpnt26c3achs8gu5okgatdlovo>event page.</a> 
+</p>
+
+<p> I'm busy planning the next meetup and it should be pretty cool! 
+	<strong>A Preview</strong>
+	<ol>
+		<li>I'll talk about in app billing</li>
+		<li>A talk about Mobile testing and experimentation</li>
+	</ol>
+</p>
+
