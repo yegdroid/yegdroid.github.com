@@ -1,0 +1,23 @@
+---
+layout: posts
+title: Fourth meetup agenda
+---
+
+h2. {{ page.title }}
+
+h4. {{ page.date | date_to_long_string }}
+
+<p>
+<strong>Starting at 7:30</strong>
+<p>
+	Tonight is meetup! We have another awesome agenda:
+</p>
+<ul>
+	<li>7:30pm: start and intros.</li>
+	<li>7:40: <a href=http://www.softwareprocess.es/static/EdmontonProgrammingUserGroups.html>Abram Hindle</a> will be talking Activities</li>
+	<li>8:00: I'll be talking in-App billing and <a href=http://www.androidbootstrap.com/>Android Bootstrap</li>
+	<li>8:15: <a href=https://plus.google.com/b/118166871316178048763/117635240617411571496>Tom Opgenorth</a> will be talking about Fragments!</li>
+	<li>8:45ish: Feedback &  <strong>Beers!</strong> What would a meetup be without beers? Specials at <a href=http://mercertavern.com/>Mercer Tavern</a> for wings and domestic beer ($3.50 a pint).
+</ul>
+
+<p>This meetup will be broadcast as a hangout on air so if you can't physically make it please tune in. Link/Instructuions will be sent out just before the meetup starts.</p>
