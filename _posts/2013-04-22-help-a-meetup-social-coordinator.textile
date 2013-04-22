@@ -1,0 +1,22 @@
+---
+layout: posts
+title: Help a meetup out: Social Coordinator
+---
+
+h2. {{ page.title }}
+
+h4. {{ page.date | date_to_long_string }}
+
+<p>
+  Want some "Social Coordinating"" Experience? After a couple of hours a month to spare? I'm looking for a social coordiantor for yegdroid to help make sure that the pub we go has space, people know where to go,etc. This is a no fail position (can't be any worse that how I do it). What do you get in return? Well karma awesome-ness, linked-in kudos, mentions on this super high traffic site and an at least one round of applause from meetup members. 
+</p>
+
+<p>
+  If you are interested please contact me at chris@yegdroid.ca.
+</p>
+<p>
+  Did I mention this is a no fail position? 
+</p>
+<p>
+  Thanks!
+</p>

@@ -1,0 +1,26 @@
+---
+layout: posts
+title: Help a meetup out: Social Coordinator
+---
+
+h2. {{ page.title }}
+
+h4. {{ page.date | date_to_long_string }}
+
+<p>
+  Do you have aspirations to be the next Media Super Awesome Person? Do you have the first Tuesday of every month free? Do you want <strong>complete</strong> creative control in a no-fail environment? Well then, I have a non-paying, kudo generous position for you! 
+</p>
+
+<p>
+  I desperately need someone to help me with yegdroidgs (and GDG Edmonton) youtube/G+ hangout on air. Right now I'm using my macbook's webcam and mic and the quality is far from awesome. So, if you want to help out please let me know. 
+</p>
+
+<p>
+  If you are interested please contact me at chris@yegdroid.ca.
+</p>
+<p>
+  Did I mention this is a no fail position? 
+</p>
+<p>
+  Thanks!
+</p>
