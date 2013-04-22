@@ -1,9 +1,9 @@
 ---
-layout: posts
+layout: default
 title: Venue Changed
 ---
 
-h2. {{ page.title }}
+h2. <a href="{{ page.url }}">{{ page.title }}</a>
 
 h4. {{ page.date | date_to_long_string }}
 
