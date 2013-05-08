@@ -16,7 +16,7 @@ h4. {{ page.date | date_to_long_string }}
   <li>6:30: intros and overview </li>
   <li>6:35: discussion about merging with GDG meetup </li>
   <li>6:45: Gwyneth talks about testing </li>
-  <li>7:15: Chris talks testing </li>
+  <li>7:15: Chris talks <a href=http://yegdroid.ca/testing7May2013/>testing</a></li>
   <li>7:30: Google Summer of Code, Google IO and anything else</li>
 </ul>
 
