@@ -1,0 +1,20 @@
+---
+layout: default
+title: Sixth meetup agenda
+---
+
+h2. <a href="{{ page.url }}">{{ page.title }}</a>
+
+h4. {{ page.date | date_to_long_string }}
+
+<p>
+<strong>Starting at 7:00</strong>
+<p>
+	Tonight is meetup! We have another awesome agenda:
+</p>
+<ul>
+	<li>Local News: jobs/contracts, projects</li>
+	<li>Meetup News: summer hiatus? Hackups, etc? </li>
+	<li>Google IO recap</li>
+</ul>
+
